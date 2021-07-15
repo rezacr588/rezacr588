@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rezacr588
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning c# & js
+- 💞️ I’m looking to collaborate on react
+- 📫 How to reach me linked !
