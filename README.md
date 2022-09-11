@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rezacr588
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning c# & js
-- 💞️ I’m looking to collaborate on react
+- 🌱 I’m currently learning typescript & javascript & python
+- 💞️ I’m looking to collaborate on react & python
 - 📫 How to reach me?  linkedin!
