@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rezacr588
-- 👀 I’m interested in artificial intelligence 
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on react & python & JavaScript 
+- 👀 I’m interested in artificial intelligence and augumented reality
+- 🌱 I’m currently learning machine learning and augumented reality
+- 💞️ I’m looking to collaborate on react & python & JavaScript & C#
 - 📫 How to reach me?  linkedin!
