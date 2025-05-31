@@ -1,5 +1,3 @@
-Below is a rewritten version of your GitHub profile README, tailored specifically for an AI Engineer role. Citations from various high-quality sources are provided after each sentence to illustrate best practices and key elements often found in AI Engineer portfolios.
-
 ## Summary
 
 I am Reza Zeraat, an AI Engineer specializing in generative AI, machine learning, and full-stack development. I bring hands-on experience with Python, React, JavaScript, C#, and frameworks such as TensorFlow and PyTorch. My portfolio emphasizes both the technical depth required for AI/ML model development and the collaborative mindset needed for end-to-end solution delivery. I actively seek opportunities to work on challenging projects—ranging from data pipelines to agentic AI systems—and to share knowledge with the broader AI community through blogs, open-source contributions, and technical discussions.
