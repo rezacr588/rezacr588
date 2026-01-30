@@ -1,33 +1,45 @@
-# Hey, I'm Reza Zeraat 👋
+# Reza Zeraat
 
-**AI Engineer** building intelligent systems at the intersection of machine learning, generative AI, and full-stack development.
+**Lead AI Engineer** | 13+ years building intelligent systems
 
-I design and deploy production-grade AI solutions—from fine-tuned LLMs and RAG pipelines to computer vision systems. Currently focused on agentic AI, legal AI applications, and making complex ML accessible through clean engineering.
+I ship production AI—fine-tuned LLMs, RAG pipelines, agentic workflows. Currently deep in legal AI and making complex ML actually work in production.
 
-## What I Work With
+---
 
-**AI/ML:** Python, PyTorch, TensorFlow, LangChain, Hugging Face, RAG, LLM fine-tuning  
-**Full-Stack:** React, Node.js, TypeScript, C#, GraphQL  
-**Infrastructure:** Docker, Kubernetes, AWS, Azure ML, Apache Airflow
+### Now
 
-## Featured Projects
+- 🔬 Fine-tuning legal reasoning models (Qwen + LoRA)
+- 🏗️ Building agentic AI systems for document analysis
+- 📹 Explaining AI on [YouTube](https://youtube.com/@elyoni-corp)
 
-**🤖 Generative Chat Agent**  
-LangChain-powered conversational AI with RAG architecture. Uses Weaviate for vector storage, deployed on Kubernetes for horizontal scaling.
+---
 
-**👁️ Anomaly Detection Pipeline**  
-PyTorch CNN for manufacturing defect detection. Automated retraining via Airflow, React dashboard for real-time visualization.
+### Stack
 
-**📊 Sentiment Analysis Dashboard**  
-End-to-end NLP pipeline: data collection → transformer classification → D3.js visualizations. Deployed on AWS Fargate.
+**ML/AI** · PyTorch · Hugging Face · LangChain · Unsloth · PEFT/LoRA · RAG  
+**Languages** · Python · TypeScript · Go · C#  
+**Infrastructure** · AWS · Azure · GCP · Kubernetes · Docker · Airflow
 
-**🎮 Game AI with Reinforcement Learning**  
-DQN agent in TensorFlow for strategic game optimization. Achieved 20% performance improvement over baseline.
+---
 
-## Let's Connect
+### Selected Work
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/reza-zeraat-6628781b3/)
-- 📧 rzeraat.tur@gmail.com
-- 🎥 [YouTube](https://youtube.com/@elyoni-corp)
+**Legal AI Fine-tuning Pipeline**  
+Custom training framework for legal reasoning. LoRA + QLoRA achieving 85% memory reduction, 40% retrieval precision improvement.
 
-Open to collaborations on AI projects, consulting, or just geeking out about the latest in generative AI.
+**RAG-Powered Chat Agent**  
+LangChain + Weaviate vector search. Horizontally scaled on K8s.
+
+**Manufacturing Anomaly Detection**  
+PyTorch CNN with automated retraining via Airflow. Real-time React dashboard.
+
+**RL Game Agent**  
+DQN in TensorFlow. 20% performance gain over baseline.
+
+---
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/reza-zeraat-6628781b3/) · [YouTube](https://youtube.com/@elyoni-corp) · rzeraat.tur@gmail.com
+
+Open to AI engineering roles, consulting, and interesting collaborations.
